@@ -32,3 +32,6 @@ optional arguments:
   -i INTENSITY, --intensity INTENSITY                 Intensity of pixelation (Put -1 for autopixelation)
   
   -v, --debug                                         Debugging for intermediate verbosity
+
+
+Credit: https://www.shutterstock.com/blog/how-to-turn-any-photograph-into-pixel-art-with-photoshop

@@ -40,4 +40,4 @@ Gen_Pixel.py test.png -s 45 -c 20
 Gen_Pixel.py test.png -d pixelated_img -g 20 -s 20 -l 12 -v
 ```
 
-Credit: https://www.shutterstock.com/blog/how-to-turn-any-photograph-into-pixel-art-with-photoshop
+__Credit:__ https://www.shutterstock.com/blog/how-to-turn-any-photograph-into-pixel-art-with-photoshop

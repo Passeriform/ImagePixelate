@@ -37,7 +37,11 @@ optional arguments:
 Gen_Pixel.py test.png -s 45 -c 20
 ```
 ```
-Gen_Pixel.py test.png -d pixelated_img -g 20 -s 20 -l 12 -v
+Gen_Pixel.py test.png -d pixelated_test -g 20 -s 20 -l 12 -v
 ```
+
+## Results
+<img src="/test.jpg?raw=true" width="200"/>
+<img src="/pixelated-test.png?raw=true" width="200"/>
 
 __Credit:__ https://www.shutterstock.com/blog/how-to-turn-any-photograph-into-pixel-art-with-photoshop
